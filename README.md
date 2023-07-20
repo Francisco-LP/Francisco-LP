@@ -3,7 +3,7 @@
     <h1>Hola 👋, mi nombre es Francisco Lagos</h1>
 </div>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40/>
 </div>
 <!--
 **Francisco-LP/Francisco-LP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
