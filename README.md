@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div align="center">
-    <h1>Hola 👋, mi nombre es Francisco Lagos</h1>
+    <h1>Hola 👋, soy Pancho</h1>
+    ---
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40/>
