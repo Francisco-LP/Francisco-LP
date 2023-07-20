@@ -2,12 +2,12 @@
 ### hola, Soy Pancho 👋
 
 <div align="left" >
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=40/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=40/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=40/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=40/>
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/javascript/javascript.svg" width=40/>
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/nodejs/nodejs.svg" width=40/>
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/express/express.svg" width=40/>
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/linux/linux.svg" width=40/>
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/python/python.svg" width=40/>
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/docker/docker.svg" width=40/>
 </div>
 <br>
 <div>
