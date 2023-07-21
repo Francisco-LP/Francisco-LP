@@ -1,17 +1,19 @@
-<div>
-  <div>### hola, Soy Pancho 👋</div>
-  <div>
-    <img src="https://giphy.com/gifs/south-park-by-me-cartman-vsC7gewdX8tfq" width="200"/>
+<div >
+  <div align="left">
+    <img  src="https://media.giphy.com/media/vsC7gewdX8tfq/giphy.gif" width="200" align="right" height="200"/>
+  </div>
+  <div align="left">
+    <h2>Hola, Soy Pancho 👋</h2>
   </div>
 </div>
 
 
 <div align="left" >
-  <img src="https://github.com/Francisco-LP/iconos/blob/main/javascript/javascript.svg" width=40/>
-  <img src="https://github.com/Francisco-LP/iconos/blob/main/nodejs/nodejs.svg" width=40/>
-  <img src="https://github.com/Francisco-LP/iconos/blob/main/express/express.svg" width=40/>
-  <img src="https://github.com/Francisco-LP/iconos/blob/main/linux/linux.svg" width=40/>
-  <img src="https://github.com/Francisco-LP/iconos/blob/main/python/python.svg" width=40/>
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/javascript/javascript.svg" width=40/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/nodejs/nodejs.svg" width=40/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/express/express.svg" width=40/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/linux/linux.svg" width=40/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Francisco-LP/iconos/blob/main/python/python.svg" width=40/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Francisco-LP/iconos/blob/main/docker/docker.svg" width=40/>
 </div>
 <br>
