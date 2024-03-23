@@ -1,8 +1,8 @@
 <div >
   <div align="left">
-    <br>
     <img  src="https://media.giphy.com/media/vsC7gewdX8tfq/giphy.gif" width="200" align="right" height="200"/>
   </div>
+  <br>
   <div align="left">
     <h2>👋</h2>
   </div>
