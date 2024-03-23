@@ -17,10 +17,7 @@
   <img src="https://github.com/Francisco-LP/iconos/blob/main/docker/docker.svg" width=40/>
 </div>
 <br>
-<div>
-    <a href="https://www.linkedin.com/in/francisco-lagos-ponce/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-blue"
-</div>
+
 
 
 <!--
