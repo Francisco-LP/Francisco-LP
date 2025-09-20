@@ -1,10 +1,12 @@
-    <div >
+
+<div>
     <div align="left">
     <h2>👋</h2>
+    <label>Hola</label>
   </div>
-  <div align="left">
+    
+<div align="left">
     <img  src="https://media.giphy.com/media/vsC7gewdX8tfq/giphy.gif" width="200" align="right" height="200"/>
-  </div>
 </div>
 
 
