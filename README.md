@@ -1,8 +1,7 @@
 
 <div>
     <div align="left">
-    <h2>👋</h2>
-    <label>Hola</label>
+    <h2>👋 Hola</h2>
   </div>
     
 <div align="left">
