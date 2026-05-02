@@ -1,12 +1,11 @@
+# 👋 Hola!
+---
 
-<div>
-    <div align="left">
-    <h2>👋 Hola</h2>
-  </div>
-    
-<div align="left">
-    <img  src="https://media.giphy.com/media/vsC7gewdX8tfq/giphy.gif" width="200" align="right" height="200"/>
-</div>
+Mi nombre es Francisco Lagos, Ingeniero en Informática · Santiago, Chile.
+Trabajo en soporte técnico mientras me especializo en Linux y administración de sistemas.
+Soy fan de la técnologia en general.
+
+---
 
 
 <div align="left" >
